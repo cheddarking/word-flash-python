@@ -1,0 +1,1 @@
+"""Bundled KJV verse resource."""

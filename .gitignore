@@ -1,0 +1,17 @@
+# Python environments and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Test, lint, and coverage caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# PyInstaller output (the build script regenerates the spec)
+/build/
+/dist/
+/*.spec
